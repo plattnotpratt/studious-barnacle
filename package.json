@@ -1,0 +1,19 @@
+{
+  "name": "studious-barnacle",
+  "version": "1.0.0",
+  "description": "Study Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plattnotpratt/studious-barnacle.git"
+  },
+  "author": "Christopher Platt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/plattnotpratt/studious-barnacle/issues"
+  },
+  "homepage": "https://github.com/plattnotpratt/studious-barnacle#readme"
+}
